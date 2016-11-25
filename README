@@ -1,0 +1,13 @@
+NAME
+	julian-date - Prints the Geocentric Julian Day to 4 decimal places to stdout
+
+SYNOPSIS
+	julian-date
+
+DESCRIPTION
+	Prints the Geocentric Julian Day to 4 decimal places to stdout
+
+COPYRIGHT
+	Copyright (c) 2016, Oge Nnadi.
+
+	You may distribute and/or modify it under the BSD 2-clause license. See the file COPYING for details.
