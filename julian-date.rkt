@@ -1,5 +1,6 @@
 #lang racket/base
 (require racket/date)
+(provide julian-date)
 ; Compute Julian day number (and fraction) given timezone, time of
 ; day, day of month, month, and year
 ; https://en.wikipedia.org/wiki/Julian_day#Calculation
